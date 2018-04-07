@@ -10,3 +10,9 @@ Like I started with the treadmill 1 year ago, I barely finished my first mile. N
 
 ## Leetcode
 1. License Key Formatting
+2. Island Perimeter
+3. Next Greater Element I
+4. Reverse String
+5. Fizz Buzz
+6. Keyboard Row
+7. Encode and Decode TinyURL
