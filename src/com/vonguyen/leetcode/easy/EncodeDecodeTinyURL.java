@@ -1,4 +1,4 @@
-package com.vonguyen.leetcode;
+package com.vonguyen.leetcode.easy;
 
 import java.util.HashMap;
 import java.util.Map;

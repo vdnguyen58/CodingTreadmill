@@ -1,4 +1,4 @@
-package com.vonguyen.leetcode;
+package com.vonguyen.leetcode.easy;
 
 /**
  * https://leetcode.com/problems/island-perimeter/description/

@@ -1,4 +1,4 @@
-package com.vonguyen.leetcode;
+package com.vonguyen.leetcode.easy;
 
 import java.util.ArrayList;
 import java.util.List;
