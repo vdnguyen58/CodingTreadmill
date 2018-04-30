@@ -32,19 +32,19 @@ package com.vonguyen.interviewcake;
  */
 
 public class ReverseWords {
-    private static void swap(char[] str, int i, int j) {
+    private void swap(char[] str, int i, int j) {
         char temp = str[i];
         str[i] = str[j];
         str[j] = temp;
     }
 
-    private static void swapSequence(char[] str, int i, int j) {
+    private void swapSequence(char[] str, int i, int j) {
         while (i < j) {
             swap(str, i++, j--);
         }
     }
 
-    public static String myFunction(String arg) {
+    public String myFunction(String arg) {
         // write the body of your function here
         char[] str = arg.toCharArray();
 
@@ -71,6 +71,7 @@ public class ReverseWords {
         // run your function through some test cases here
         // remember: debugging is half the battle!
         String testInput = "test input";
-        System.out.println(myFunction(testInput));
+        ReverseWords app = new ReverseWords();
+        System.out.println(app.myFunction(testInput));
     }
 }
